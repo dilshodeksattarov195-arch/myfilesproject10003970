@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderserify",
+        "uuid": 19492700,
+        "checksum": "l2heln"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
